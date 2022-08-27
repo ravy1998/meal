@@ -1,0 +1,25 @@
+body{
+  overflow-x: hidden;
+}
+
+.row {
+  --bs-gutter-x: 0 !important;
+}
+
+.main-column{
+  border: 1px #ddd solid;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top : 25px;
+}
+.food-image{
+  width: 90px;
+  height: 120px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.loader{
+  margin-left:50%;
+  margin-top:20px
+}
